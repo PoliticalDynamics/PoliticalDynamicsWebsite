@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: people
+  page_type: post
 design:
   view: 3
   columns: "1"
