@@ -9,7 +9,7 @@
 #  weight = 10
 
 [[main]]
-  name = "People"
+  name = "Team"
   url = "/#people"
   weight = 20
   
